@@ -1,15 +1,15 @@
 <!-- ********** DO NOT EDIT THESE LINKS ********** -->
 <p align="center">
-    <a href="https://www.asbuiltreport.com/" alt="AsBuiltReport"></a>
-            <img src='https://github.com/AsBuiltReport.png' width="8%" height="8%" /></a>
+    <a href="https://www.asbuiltreport.com/">
+        <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/repo-banners/AsBuiltReport.Omnissa.Horizon.png" alt="AsBuiltReport.Omnissa.Horizon" width="880"></a>
 </p>
 <p align="center">
     <a href="https://www.powershellgallery.com/packages/AsBuiltReport.Omnissa.Horizon/" alt="PowerShell Gallery Version">
-        <img src="https://img.shields.io/powershellgallery/v/AsBuiltReport.Omnissa.Horizon.svg" /></a>
+        <img src="https://img.shields.io/powershellgallery/v/AsBuiltReport.Omnissa.Horizon.svg?color=1F5FD0" /></a>
     <a href="https://www.powershellgallery.com/packages/AsBuiltReport.Omnissa.Horizon/" alt="PS Gallery Downloads">
-        <img src="https://img.shields.io/powershellgallery/dt/AsBuiltReport.Omnissa.Horizon.svg" /></a>
+        <img src="https://img.shields.io/powershellgallery/dt/AsBuiltReport.Omnissa.Horizon.svg?color=012456" /></a>
     <a href="https://www.powershellgallery.com/packages/AsBuiltReport.Omnissa.Horizon/" alt="PS Platform">
-        <img src="https://img.shields.io/powershellgallery/p/AsBuiltReport.Omnissa.Horizon.svg" /></a>
+        <img src="https://img.shields.io/powershellgallery/p/AsBuiltReport.Omnissa.Horizon.svg?color=FFD02B" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/AsBuiltReport/AsBuiltReport.Omnissa.Horizon/graphs/commit-activity" alt="GitHub Last Commit">
@@ -17,11 +17,7 @@
     <a href="https://raw.githubusercontent.com/AsBuiltReport/AsBuiltReport.Omnissa.Horizon/master/LICENSE" alt="GitHub License">
         <img src="https://img.shields.io/github/license/AsBuiltReport/AsBuiltReport.Omnissa.Horizon.svg" /></a>
     <a href="https://github.com/AsBuiltReport/AsBuiltReport.Omnissa.Horizon/graphs/contributors" alt="GitHub Contributors">
-        <img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Omnissa.Horizon.svg"/></a>
-</p>
-<p align="center">
-    <a href="https://twitter.com/AsBuiltReport" alt="Twitter">
-            <img src="https://img.shields.io/twitter/follow/AsBuiltReport.svg?style=social"/></a>
+        <img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Omnissa.Horizon.svg?color=012456"/></a>
 </p>
 
 <p align="center">
@@ -29,10 +25,8 @@
 </p>
 <!-- ********** DO NOT EDIT THESE LINKS ********** -->
 
-# Omnissa Horizon As Built Report
-
 <!-- ********** REMOVE THIS MESSAGE WHEN THE MODULE IS FUNCTIONAL ********** -->
-## :exclamation: THIS ASBUILTREPORT MODULE IS CURRENTLY IN DEVELOPMENT AND MIGHT NOT YET BE FUNCTIONAL ❗
+## <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/in-development.svg" alt="" width="24" height="24" align="top"> THIS ASBUILTREPORT MODULE IS CURRENTLY IN DEVELOPMENT AND MIGHT NOT YET BE FUNCTIONAL
 
 Omnissa Horizon As Built Report is a PowerShell module which works in conjunction with [AsBuiltReport.Core](https://github.com/AsBuiltReport/AsBuiltReport.Core).
 
@@ -40,10 +34,10 @@ Omnissa Horizon As Built Report is a PowerShell module which works in conjunctio
 
 Please refer to the AsBuiltReport [website](https://www.asbuiltreport.com) for more detailed information about this project.
 
-# :beginner: Getting Started
+# <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/getting-started.svg" alt="" width="28" height="28" align="top"> Getting Started
 Below are the instructions on how to install, configure and generate a Omnissa Horizon As Built report.
 
-## :floppy_disk: Supported Versions
+## <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/supported-versions.svg" alt="" width="24" height="24" align="top"> Supported Versions
 <!-- ********** Update supported Horizon versions ********** -->
 The Omnissa Horizon As Built Report supports the following Horizon versions;
 
@@ -55,23 +49,23 @@ This report is compatible with the following PowerShell versions;
 |:----------------------:|:------------------:|
 |   :white_check_mark:   | :white_check_mark: |
 
-## 🗺️ Language Support
+## <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/language-support.svg" alt="" width="24" height="24" align="top"> Language Support
 <!-- ********** Update supported languages ********** -->
 The Omnissa Horizon As Built Report supports the following languages;
 
 - English (US) (Default)
 
-## :wrench: System Requirements
+## <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/system-requirements.svg" alt="" width="24" height="24" align="top"> System Requirements
 <!-- ********** Update system requirements ********** -->
 PowerShell 5.1 or PowerShell 7, and the following PowerShell modules are required for generating a Omnissa Horizon As Built Report.
 
 - [AsBuiltReport.Omnissa.Horizon Module](https://www.powershellgallery.com/packages/AsBuiltReport.Omnissa.Horizon/)
 
-### :closed_lock_with_key: Required Privileges
+### <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/required-privileges.svg" alt="" width="20" height="20" align="top"> Required Privileges
 <!-- ********** Define required privileges ********** -->
 <!-- ********** Try to follow best practices to define least privileges ********** -->
 
-## :package: Module Installation
+## <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/module-installation.svg" alt="" width="24" height="24" align="top"> Module Installation
 
 ### PowerShell
 <!-- ********** Add installation for any additional PowerShell module(s) ********** -->
@@ -97,7 +91,7 @@ If you are unable to use the PowerShell Gallery, you can still install the modul
 
 _Note: You are not limited to installing the module to those example paths, you can add a new entry to the environment variable PSModulePath if you want to use another path._
 
-## :pencil2: Configuration
+## <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/configuration.svg" alt="" width="24" height="24" align="top"> Configuration
 
 The Omnissa Horizon As Built Report utilises a JSON file to allow configuration of report information, options, detail and healthchecks.
 
@@ -151,5 +145,5 @@ There are 6 levels (0-5) of detail granularity for each section as follows;
 ### Healthcheck
 The **Healthcheck** schema is used to toggle health checks on or off.
 
-## :computer: Examples
+## <img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/assets/section-icons/examples.svg" alt="" width="24" height="24" align="top"> Examples
 <!-- ********** Add some examples. Use other AsBuiltReport modules as a guide. ********** -->
